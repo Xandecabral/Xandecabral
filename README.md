@@ -13,8 +13,8 @@ Sou Alexsander Cabral, sou um Programador Front-End apaixonado por programação
    ## Contatos
    
    <a href="https://www.instagram.com/xandecabrall/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"/></a>
-   <a href="https://www.youtube.com/channel/UCTuzRIHPJO9CLeOavi7-2Wg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube.logo"/></a>
    <a href="https://www.linkedin.com/in/alexsander-cabral/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
+   <a href="https://www.youtube.com/channel/UCTuzRIHPJO9CLeOavi7-2Wg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube.logo"/></a>
   <br>
 
   ## Informações
