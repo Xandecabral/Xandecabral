@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou Alexsander Cabral, sou um Programador Front-End, atualamente estou aprendendo a criando projetos com
+Sou Alexsander Cabral, sou um Programador Front-End, atualmente estou aprendendo a criando projetos com...
 <br>
 <br>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
